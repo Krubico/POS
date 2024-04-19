@@ -1,0 +1,6 @@
+[submodule "pos-design"]
+	path = pos-design
+	url = https://github.com/Krubico/pos_design
+[submodule "pos-backend"]
+	path = pos-backend
+	url = https://github.com/Krubico/POS-Backend
